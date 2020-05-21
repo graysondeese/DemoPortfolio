@@ -15,4 +15,10 @@ body {
     height: 175px;
     width: 150px;
 }
+.portfolioPics{
+    /* height: 500px;
+    width: 800px; */
+    height: 50vh;
+    width: 85%;
+}
 
