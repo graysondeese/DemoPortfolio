@@ -9,8 +9,6 @@ https://graysondeese.github.io/DemoPortfolio/
 # Screenshots
 ****
 <img src="Assets/Images/page1.PNG">
-****
 <img src="Assets/Images/page2.PNG">
-****
 <img src="Assets/Images/page3.PNG">
 
